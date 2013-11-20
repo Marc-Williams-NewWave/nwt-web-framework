@@ -6,7 +6,7 @@
         <fieldset>
 
             <div class="span12">
-            <legend>Sign Up as a Merchant</legend>
+            <legend>Sign Up as a User</legend>
             </div>
 
             <div class="span6">
