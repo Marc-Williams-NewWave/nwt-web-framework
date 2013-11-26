@@ -15,7 +15,7 @@
             <p>Howdy, I'm in Option 2.</p>
         </div>
         <div class="tab-pane" id="option3">
-            <p>I've decided to be Option 4.</p>
+            <p>I've decided to be Option 4..</p>
         </div>
     </div>
 </div>
