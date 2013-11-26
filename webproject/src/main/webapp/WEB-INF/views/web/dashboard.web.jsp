@@ -7,7 +7,7 @@
         <li><a href="#option2" data-toggle="tab">Option 2</a></li>
         <li><a href="#option3" data-toggle="tab">Option 3</a></li>
     </ul>
-    <div class="tab-content">
+    <div class="tab-content" style="background-color: lime !important;">
         <div class="tab-pane active" id="option1">
             <p>I'm in Option 1.</p>
         </div>
@@ -15,7 +15,7 @@
             <p>Howdy, I'm in Option 2.</p>
         </div>
         <div class="tab-pane" id="option3">
-            <p>Howdy, I'm in Option 3.</p>
+            <p>I've decided to be Option 4.</p>
         </div>
     </div>
 </div>
