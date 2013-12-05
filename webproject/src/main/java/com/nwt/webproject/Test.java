@@ -7,7 +7,7 @@ private static String MESSAGE_OLD = "SOME TESTING";
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("hello!!!    "+MESSAGE_NEW);
+		System.out.println("hello!!! Srinivas   "+MESSAGE_NEW);
 	}
 	public static int someAddMethod(){
 		int a = 0;
@@ -15,7 +15,7 @@ private static String MESSAGE_OLD = "SOME TESTING";
 		int c = 0;
 		
 		c = a+b;
-		
+		//dsdsdsdd
 
 		return c;
 		
