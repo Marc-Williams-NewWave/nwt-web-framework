@@ -12,7 +12,7 @@ import com.nwt.webproject.webapp.common.View;
 
 /**
  * App central controller to render home page
- *
+ * {random test update on 10/08/14}
  * @author: Prabakar Singaram
  * @created: 2/28/2013 7:54 AM
  * @company: NewWave Technologies Inc
