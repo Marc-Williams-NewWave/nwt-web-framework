@@ -15,7 +15,7 @@ private static String MESSAGE_OLD = "SOME TESTING";
 		int c = 0;
 		
 		c = a+b;
-		//dsdsdsdd
+		//a test comment that I'll push to git for jenkins testing - 10/8/14
 
 		return c;
 		
