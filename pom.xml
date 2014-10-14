@@ -17,6 +17,19 @@
     <name>ProjectRoot</name>
 
 <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <!-- or whatever version you use -->
+          <source>1.7</source>
+          <target>1.7</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+<!--<build>
 <plugins>
 <plugin>
 <groupId>org.jacoco</groupId>
@@ -38,5 +51,5 @@
 </executions>
 </plugin>
 </plugins>
-</build>
+</build>-->
 </project>
